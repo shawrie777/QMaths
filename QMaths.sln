@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QMaths", "QMaths\QMaths.vcxproj", "{5833C5A4-D643-4A44-BFB0-BD59C9618577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5833C5A4-D643-4A44-BFB0-BD59C9618577}.Debug|x64.ActiveCfg = Debug|x64
+		{5833C5A4-D643-4A44-BFB0-BD59C9618577}.Debug|x64.Build.0 = Debug|x64
+		{5833C5A4-D643-4A44-BFB0-BD59C9618577}.Release|x64.ActiveCfg = Release|x64
+		{5833C5A4-D643-4A44-BFB0-BD59C9618577}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37AC4609-EF5C-4180-A5C6-1FFA09BBA259}
+	EndGlobalSection
+EndGlobal
